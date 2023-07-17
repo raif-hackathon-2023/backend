@@ -1,0 +1,58 @@
+<!DOCTYPE html><html lang="ru"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/payraif__favicon.ico"><title>Отвечаем на частые вопросы о продуктах Raif Pay | Справочный центр Raif Pay</title><meta name="description" content="СБП, торговый и интернет-эквайринг, инкассация, АДМ и корпоративные карты"><meta property="og:title" content="Отвечаем на частые вопросы о продуктах Raif Pay"><meta property="og:type" content="website"><meta property="og:description" content="СБП, торговый и интернет-эквайринг, инкассация, АДМ и корпоративные карты"><meta property="og:image"><meta property="og:url" content="https://help.pay.raif.ru/"><meta property="og:site_name" content="Справочный центр Raif Pay"><link rel="manifest" href="/_assets/manifest.json"><script>var siteConfig = {"title":"Справочный центр Raif Pay","theme":"default","darkMode":false,"lang":"ru","rtl":false,"company":"АО «Райффайзенбанк»","contentLicense":"alr","logoUrl":"/raif_gc_rgb.png"}
+var siteLangs = []
+</script><link type="text/css" rel="stylesheet" href="/_assets/css/app.cd94ee14df75f4c2a9da.css"><script type="text/javascript" src="/_assets/js/runtime.js?1643500888"></script><script type="text/javascript" src="/_assets/js/app.js?1643500888"></script><!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+  (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+  m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+  (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+  ym(75919660 , "init", {
+    clickmap:true,
+    trackLinks:true,
+    accurateTrackBounce:true,
+    webvisor:true
+  });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/75919660 " style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<style type="text/css">button[aria-label="Поделиться"],button[aria-label=Share]{display:none;visibility:hidden}</style><link rel="shortcut icon" type="image/x-icon" href="/payraif__favicon.ico">
+<meta name="google-site-verification" content="3mApMpeIQ2uTxC9VvfG7rx9hCNpqRYDbvahmHwbPDC4" />
+<meta name="yandex-verification" content="d35a4c25358105b8" /></head><body><div id="root"><page locale="ru" path="home" title="Отвечаем на частые вопросы о продуктах Raif Pay" description="СБП, торговый и интернет-эквайринг, инкассация, АДМ и корпоративные карты" :tags="[]" created-at="2022-02-02T16:53:23.898Z" updated-at="2023-03-05T18:49:35.544Z" author-name="Administrator" :author-id="0" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiLQn9GA0L7QtNGD0LrRgtGLIiwiYW5jaG9yIjoiI9C/0YDQvtC00YPQutGC0YsiLCJjaGlsZHJlbiI6W3sidGl0bGUiOiLQldGB0LvQuCDRgyDQstCw0YEg0L7RgdGC0LDQu9C40YHRjCDQstC+0L/RgNC+0YHRiywg0LzRiyDQvtCx0Y/Qt9Cw0YLQtdC70YzQvdC+INC/0L7QvNC+0LbQtdC8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAlCDRgdCy0Y/QttC40YLQtdGB0Ywg0YEg0L3QsNC80Lg6IiwiYW5jaG9yIjoiI9C10YHQu9C4LdGDLdCy0LDRgS3QvtGB0YLQsNC70LjRgdGMLdCy0L7Qv9GA0L7RgdGLLdC80Yst0L7QsdGP0LfQsNGC0LXQu9GM0L3Qvi3Qv9C+0LzQvtC20LXQvC3RgdCy0Y/QttC40YLQtdGB0Ywt0YEt0L3QsNC80LgiLCJjaGlsZHJlbiI6W119XX1d" :page-id="2" sidebar="W3siaSI6InNkaS0xIiwiayI6ImxpbmsiLCJsIjoi0KHQkdCfIiwiYyI6Im1kaS1xcmNvZGUtc2NhbiIsInkiOiJwYWdlIiwidCI6Ii9ydS9zYnAifSx7ImkiOiJzZGktMiIsImsiOiJsaW5rIiwibCI6ItCh0JHQnyDQtNC70Y8g0YLQvtGA0LPQvtCy0YvRhSDRgtC+0YfQtdC6IiwiYyI6Im1kaS1jZWxscGhvbmUtbmZjIiwieSI6InBhZ2UiLCJ0IjoiL3J1L3NicC1wb3MifSx7ImkiOiJzZGktMyIsImsiOiJsaW5rIiwibCI6ItCi0L7RgNCz0L7QstGL0Lkg0Y3QutCy0LDQudGA0LjQvdCzIiwiYyI6Im1kaS1jb250YWN0bGVzcy1wYXltZW50LWNpcmNsZSIsInkiOiJwYWdlIiwidCI6Ii9ydS9wb3MifSx7ImkiOiJzZGktNCIsImsiOiJsaW5rIiwibCI6ItCY0L3RgtC10YDQvdC10YIt0Y3QutCy0LDQudGA0LjQvdCzIiwiYyI6Im1kaS13ZWIiLCJ5IjoicGFnZSIsInQiOiIvcnUvZWNvbSJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoi0JjQvdC60LDRgdGB0LDRhtC40Y8iLCJjIjoibWRpLWFjY291bnQtY2FzaCIsInkiOiJwYWdlIiwidCI6Ii9ydS9jYXNoIn0seyJpIjoic2RpLTYiLCJrIjoibGluayIsImwiOiLQkNCU0JwgLSDQvtC90LvQsNC50L0g0LjQvdC60LDRgdGB0LDRhtC40Y8iLCJjIjoibWRpLWNhc2gtcGx1cyIsInkiOiJwYWdlIiwidCI6Ii9ydS9hZG0ifSx7ImkiOiJzZGktNyIsImsiOiJsaW5rIiwibCI6ItCa0L7RgNC/0L7RgNCw0YLQuNCy0L3Ri9C1INC60LDRgNGC0YsiLCJjIjoibWRpLWNyZWRpdC1jYXJkLW91dGxpbmUiLCJ5IjoicGFnZSIsInQiOiIvcnUvY2FyZHMifV0=" nav-mode="STATIC" effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjpmYWxzZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlfSwiaGlzdG9yeSI6eyJyZWFkIjpmYWxzZX0sInNvdXJjZSI6eyJyZWFkIjpmYWxzZX0sInBhZ2VzIjp7InJlYWQiOnRydWUsIndyaXRlIjpmYWxzZSwibWFuYWdlIjpmYWxzZSwiZGVsZXRlIjpmYWxzZSwic2NyaXB0IjpmYWxzZSwic3R5bGUiOmZhbHNlfSwic3lzdGVtIjp7Im1hbmFnZSI6ZmFsc2V9fQ=="><template slot="contents"><div><h1 class="toc-header" id="продукты"><a href="#продукты" class="toc-anchor">¶</a> Продукты</h1>
+<ul class="links-list">
+<li><a class="is-internal-link is-valid-page" href="/sbp"><img width="30" alt="sbp_icon.png" src="/sbp_icon.png">СБП<em>Прием платежей до 5 раз дешевле эквайринга</em></a></li>
+<li><a class="is-internal-link is-valid-page" href="/pos"><img width="30" alt="torgoviy_ekvairing_icon.png" src="/torgoviy_ekvairing_icon.png"> Торговый эквайринг <em>Прием карт в торговых точках</em></a></li>
+<li><a class="is-internal-link is-valid-page" href="/cash"><img width="30" alt="online_inkassaciya_icon.png" src="/online_inkassaciya_icon.png"> Инкассация <em>Сбор наличных в торговых точках или офисе</em></a></li>
+<li><a class="is-internal-link is-valid-page" href="/adm"><img width="30" alt="inkassaciya_icon.png" src="/inkassaciya_icon.png"> Онлайн-инкассация<em>Внесение наличных в своем магазине</em></a></li>
+<li><a class="is-internal-link is-valid-page" href="/cards"><img width="30" alt="karty_icon.png" src="/karty_icon.png">Корпоративные карты<em>Оплата командировочных и хозяйственных расходов</em></a></li>
+</ul>
+<h2 class="toc-header" id="если-у-вас-остались-вопросы-мы-обязательно-поможем-свяжитесь-с-нами"><a href="#если-у-вас-остались-вопросы-мы-обязательно-поможем-свяжитесь-с-нами" class="toc-anchor">¶</a> Если у вас остались вопросы, мы обязательно поможем                                                                — свяжитесь с нами:</h2>
+<p><strong>Интернет-эквайринг и СБП</strong></p>
+<p><a href="mailto:ecom@raiffeisen.ru">ecom@raiffeisen.ru</a></p>
+<p>8 800 700-99-98<br>
+пн-пт   с 6:00 до 22:00<br>
+сб-вс   с 9:00 до 21:00</p>
+<hr>
+<p><strong>Торговый эквайринг</strong></p>
+<p>8 800 700-99-98<br>
+пн-пт   с 6:00 до 22:00<br>
+сб-вс   с 9:00 до 21:00</p>
+<hr>
+<p><strong>Инкассация и АДМ</strong></p>
+<p><a href="mailto:adm_product@raiffeisen.ru">adm_product@raiffeisen.ru</a></p>
+<p>Телефон поддержки указан на экране вашей АДМ</p>
+<hr>
+<p><strong>Корпоративные карты</strong></p>
+<p><a href="mailto:Corporate@raiffeisen.ru">Corporate@raiffeisen.ru</a></p>
+<p>Москва:  +7 495 775-52-90<br>
+пн-пт   с 6:00 до 19:00</p>
+<p>Регионы:  8 800 200-75-57<br>
+пн-пт   с 6:00 до 19:00</p>
+<p><em>Экстренная блокировка карт — в режиме 24/7</em></p>
+</div></template><template slot="comments"><div><comments></comments></div></template></page></div><style>
+:root { --override: #2B2D33; }
+.v-application .primary { background-color: var(--override) !important; border-color: var(--override) !important; }
+.v-main .contents h1 { color: var(--override) !important; }
+.v-main .contents h1:after { background: linear-gradient(90deg,var(--override),rgba(255,255,255,0)) !important; }
+.comments-header { background-color: var(--override) !important; }
+.__bar-is-vertical { background: rgba(255,255,255,.75) !important; }
+</style></body></html>
